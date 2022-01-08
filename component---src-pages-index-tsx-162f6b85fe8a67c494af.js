@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_ts=self.webpackChunkgatsby_starter_ts||[]).push([[691],{9333:function(e,t,n){n.r(t),n.d(t,{default:function(){return u}});var r=n(7294);function l(e){var t=e.children;return r.createElement("h1",null,t)}function u(){return r.createElement("main",null,r.createElement(l,null,"Hello TypeScript!"))}}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-162f6b85fe8a67c494af.js.map
